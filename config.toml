@@ -28,8 +28,8 @@ pygmentsStyle = "solarized-dark"
 # links will open in a new window except links to "/" - links are added to navigation in hugo-octopress/layouts/partials/navigation.html
 
 [[menu.main]]
-  Name = "License Page"
-  URL = "/license/"
+  Name = "About me"
+  URL = "/about/"
   weight = 2
 
 [[menu.main]]
@@ -73,12 +73,14 @@ pygmentsStyle = "solarized-dark"
 
   sidebarHeader = "Who am I?"
 
-  sidebarText = """Sidebar text. You can use markdown here. Including links like [example.com](https://example.com).
-  </br></br>
-  Add new lines with `</br>` or add two spaces to the end of the line like regular markdown.  
-  New line after two spaces.
+  #sidebarText = """Sidebar text. You can use markdown here. Including links like [example.com](https://example.com).
+  #</br></br>
+  #Add new lines with `</br>` or add two spaces to the end of the line like regular markdown.  
+  #New line after two spaces.
+  #"""
+  sidebarText = """一个编程爱好者，一个摄影爱好者。
+  [About me?](/about/)
   """
-
   sidebarMenuEnabled = true
   sidebarMenuHeader = "Collections"
 
