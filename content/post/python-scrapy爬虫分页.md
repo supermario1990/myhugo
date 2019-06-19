@@ -1,15 +1,15 @@
 ---
 title: "Python Scrapy爬虫分页"
 date: 2019-06-19T17:34:31+08:00
-draft: true
+draft: false
 toc: false
-comments: false
+comments: true
 categories:
-- category1
-- category2
+- python
+- 爬虫
 tags:
-- tag1
-- tag2
+- python
+- 爬虫
 ---
 
 <!--more-->
