@@ -36,10 +36,10 @@ pygmentsStyle = "solarized-dark"
   URL = "/about/"
   weight = 2
 
-#[[menu.main]]
-#  Name = "Individual page 1"
-#  URL = "/page1"
-#  weight = 3
+[[menu.main]]
+  Name = "Photography"
+  URL = "/photos/"
+  weight = 3
 
 #[[menu.main]]
 #  Name = "This theme on Github"
