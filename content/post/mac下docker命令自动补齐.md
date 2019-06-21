@@ -3,7 +3,7 @@ title: "Mac下docker命令自动补齐"
 date: 2019-01-02T23:29:51+08:00
 draft: false
 toc: false
-comments: false
+comments: true
 categories:
 - 工具使用
 tags:
