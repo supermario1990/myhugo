@@ -15,3 +15,10 @@ draft: false
 
 {{< imgcap title="泸沽湖小岛" src="../images/photo_2019-03-02_00-08-07.jpg" >}}
 
+{{< imgcap title="泸沽湖情人滩" src="../images/photo_2019-06-21_15-05-58.jpg" >}}
+
+{{< imgcap title="卧龙甘海子" src="../images/photo_2019-06-21_15-05-36.jpg" >}}
+
+{{< imgcap title="枯藤老树" src="../images/photo_2019-06-21_15-05-52.jpg" >}}
+
+{{< imgcap title="月夜" src="../images/photo_2019-06-21_15-06-03.jpg" >}}
